@@ -1,0 +1,12 @@
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessenger\bin\Debug\InstantMessenger.exe.config
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessenger\bin\Debug\InstantMessenger.exe
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessenger\bin\Debug\InstantMessenger.pdb
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessenger\obj\x86\Debug\InstantMessenger.csprojAssemblyReference.cache
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessenger\obj\x86\Debug\InstantMessenger.Form1.resources
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessenger\obj\x86\Debug\InstantMessenger.LogRegForm.resources
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessenger\obj\x86\Debug\InstantMessenger.Properties.Resources.resources
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessenger\obj\x86\Debug\InstantMessenger.TalkForm.resources
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessenger\obj\x86\Debug\InstantMessenger.csproj.GenerateResource.cache
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessenger\obj\x86\Debug\InstantMessenger.csproj.CoreCompileInputs.cache
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessenger\obj\x86\Debug\InstantMessenger.exe
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessenger\obj\x86\Debug\InstantMessenger.pdb
